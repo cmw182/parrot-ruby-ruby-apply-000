@@ -3,5 +3,5 @@
 def parrot(phrase = "Squawk!")
   puts phrase
   return ("Pretty bird!")
-  expect ("Squawk!")
+  print phrase
 end
